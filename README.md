@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkashMehta52
-- 👀 I’m interested in Backend developement for C/C++, and Python! I'm also interested in learning new frontend technologies!
+- 👀 I’m interested in Backend developement for C/C++, Java, and Python! I'm also interested in learning new frontend technologies!
 - 🌱 I’m currently a student at The University of Texas at Austin, studying Electrical and Computer Engineering
 and am also studying MySQL and JavaScript on the side!
 - 💞 I'm currently working on a LinkedIn Scraper and some other projects with my friends :)
